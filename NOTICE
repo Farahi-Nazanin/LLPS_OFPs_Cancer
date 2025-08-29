@@ -1,0 +1,28 @@
+
+If you use this software in academic work, please cite it along with the original publication in the journal Genome Biology as follows:
+
+Farahi, Nazanin and Lazar, Tamas and Tompa, Peter and Meszaros, Balint and Pancsa, "Phase-separating fusion proteins drive cancer by upsetting transcription regulation", GitHub, 2025. 
+Available at: [https://github.com/Farahi-Nazanin/LLPS_OFPs_Cancer/] 
+BibTeX:
+@misc{Farahi2025software,
+  author = {Farahi, Nazanin and Lazar, Tamas and Tompa, Peter and M{\'e}sz{\'a}ros, B{\'a}lint and Pancsa, Rita},
+  title = {Phase-separating fusion proteins drive cancer by upsetting transcription regulation},
+  year = {2025},
+  howpublished = {\url{https://github.com/Farahi-Nazanin/LLPS_OFPs_Cancer/}},
+  note = {Apache License 2.0}
+}
+Farahi, Nazanin and Lazar, Tamas and Tompa, Peter and Meszaros, Balint and Pancsa, "Phase-separating fusion proteins drive cancer by upsetting transcription regulation", Genome Biology, 2025. 
+Available at: [https://doi.org/10…] 
+BibTeX:
+@article {Farahi2025,
+    author = {Farahi, Nazanin and Lazar, Tamas and Tompa, Peter and M{\'e}sz{\'a}ros, B{\'a}lint and Pancsa, Rita},
+    title = {Phase-separating fusion proteins drive cancer by upsetting transcription regulation},
+    year = {2025},
+    doi = {10....},
+    abstract = {Background: Numerous cellular processes rely on biomolecular condensates formed through liquid-liquid phase separation (LLPS). Recently, it has become evident that somatic mutations can interfere with or over-activate the formation of phase-separated condensates. Results: Here, we set out to systematically study the connection between cancer and biological condensation, specifically mapping the extent to which LLPS is affected in cancer and understanding the molecular pathomechanisms and therapeutic consequences of mutations affecting LLPS scaffolds. We identify both known and novel combinations of molecular functions that are specific to oncogenic fusion proteins and thus have a high potential for driving tumorigenesis. Protein regions driving condensate formation show an increased association with DNA- or chromatin-binding domains of transcription regulators within oncogenic fusion proteins, indicating a common molecular mechanism underlying several soft tissue sarcomas and hematologic malignancies where phase-separation-prone oncogenic fusion proteins form abnormal condensates along the DNA, and thereby dysregulate gene expression programs. Conclusions: We find that proteins initiating LLPS are frequently implicated in somatic cancers, even surpassing their involvement in neurodegeneration. Our data shows that cancer-driving LLPS scaffolds tend to be potent oncogenes, giving rise to dominant phenotypes and lacking targeting options by current FDA-approved drugs. Finding the currently missing drugs to shut down oncogenic fusion proteins, to disrupt the condensation enabled by them, and to offset their downstream effects could provide cancer drugs widely applicable to diverse cancer incidences previously defying standard treatments.},
+    URL = {https://doi.org/10…},
+    journal = {Genome Biology}
+}
+
+Any modifications to this software must retain this NOTICE file.
+
